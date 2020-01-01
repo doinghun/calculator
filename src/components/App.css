@@ -1,0 +1,45 @@
+.display {
+    height: 100px;
+    background-color: white;
+    width: 100%;
+}
+
+.display p {
+    text-align: right;
+    font-size: 40px;
+    margin: 5px;
+}
+
+.result {
+    height: 100px;
+    background-color: white;
+    width: 100%;
+}
+  
+.result p {
+    text-align: right;
+    font-size: 40px;
+    margin: 5px;
+}
+
+.calculator-body {
+    max-width: 400px;
+    height: inherit;
+    margin: auto;
+    background: white;
+}
+
+.buttons {
+    display: block;
+    height: 60%;
+}
+
+.ui.button {
+    margin: .25em 0 0 .25em
+}
+
+button {
+    width: 24%;
+    height: 60px;
+    font-size: 30px;
+}
